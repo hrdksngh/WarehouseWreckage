@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/StarterContent/Maps/Minimal_Default.umap",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/StarterContent/Maps/WW_Azis_Main.umap",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/IndustryPropsPack6/Meshes/Walls_Blueprint.uasset",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/New_BPs/BP_Barrell_03.uasset",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/IndustryPropsPack6/Meshes/SM_Barrel03.uasset",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/New_BPs/BP_Barrell_01.uasset",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/New_BPs/BP_Barrell_02.uasset",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/IndustryPropsPack6/Meshes/SM_Barrel02.uasset",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/New_BPs/BP_Barrell_Hose.uasset",
+				"G:/Epic Games/UE_5.3/Projects/WW_Anlz/Content/BP_Barrell.uasset"
+			]
+		}
+	]
+}
